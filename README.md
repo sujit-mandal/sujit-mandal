@@ -60,7 +60,7 @@
   <li><strong>Description:</strong> The site serves as an asset management tool. Employees may request assets for usage, and HR/Admin may approve or
 reject requests as well as track the history of assets.</li>
   <li><strong>Technology used:</strong> ReactJS, Material UI, Tailwind CSS, Firebase, React Hook form, JWT, Payment Gateway
-(Stripe), Express JS, MongoDB, React Hot Toast, Ibb, Tanstack query, React helmet async</li>
+(Stripe), Express JS, MongoDB, React Hot Toast, Ibb, Tanstack query, React helmet async.</li>
   <li>
      <a href="https://asset-management-auth.web.app">Live site link</a>
   </li>
@@ -81,7 +81,7 @@ Vercel. </li>
 
   <ul>
   <li><strong>Description:</strong>  This is a Simple Event Management website.  Here different types of event packages are displayed. User can choose package and booked that services.</li>
-  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Express.js, MongoDB and Firebase </li>
+  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Express.js, MongoDB and Firebase. </li>
   <li>
     <a href="https://social-event-management-24be6.web.app">Live site link</a>
   </li>

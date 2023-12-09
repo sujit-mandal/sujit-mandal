@@ -11,7 +11,6 @@
   <a href="https://git.io/streak-stats"><img width= "60%" src="https://github-readme-streak-stats.herokuapp.com?user=sujit-mandal&theme=react" alt="GitHub Streak" /></a>
 </p>
 
-
 ## :mailbox: Reach me out
 
 <br />
@@ -29,3 +28,26 @@
 </div>
 
 <br />
+
+## :computer: Technologies that I know
+
+<br/>
+
+<div align="center">
+<p align="center">
+<img src="images/icons/HTML.png"/>
+<img src="images/icons/css.png"/>
+<img src="images/icons/JavaScript.png"/>
+<img src="images/icons/react.png"/>
+</p>
+<p align="center">
+<img src="images/icons/tailwind.png"/>
+<img src="images/icons/Bootsrap.png"/>
+<img src="images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="images/icons/node.png"/>
+<img src="images/icons/express.png"/>
+<img src="images/icons/mongo.png"/>
+</p>
+</div>

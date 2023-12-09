@@ -51,3 +51,23 @@
 <img src="/images/mongo.png"/>
 </p>
 </div>
+
+## :project:Three Recent Projects
+
+ <ul>
+ <li><a href="https://asset-management-auth.web.app/" target="blank">Capita Craft</a></li>
+ <li><a href="https://blog-verse-auth-715a2.web.app/" target="blank">Blog Verse</a></li>
+ <li> <a href="https://social-event-management-24be6.web.app/" target="blank">Event Fusion</a></li>
+ </ul>
+
+<br />
+
+## :eyes: Current overview
+
+### 🔭 I’m working - Own projects.
+
+### 🌱 I’m exploring - Next JS for web.
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+

@@ -52,13 +52,6 @@
 </p>
 </div>
 
-## :project:Three Recent Projects
-
- <ul>
- <li><a href="https://asset-management-auth.web.app/" target="blank">Capita Craft</a></li>
- <li><a href="https://blog-verse-auth-715a2.web.app/" target="blank">Blog Verse</a></li>
- <li> <a href="https://social-event-management-24be6.web.app/" target="blank">Event Fusion</a></li>
- </ul>
 
 ## 🚀 Latest Projects
 

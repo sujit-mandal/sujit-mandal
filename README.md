@@ -52,7 +52,6 @@
 </p>
 </div>
 
-
 ## 🚀 Latest Projects
 
 ### Capita Craft
@@ -90,10 +89,24 @@ Vercel. </li>
 
 <br />
 
-## :eyes: Current overview
+## :eyes: Github Summary
+
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-mandal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="160" alt="languages graph"  />
+<br/>
+  <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujit-mandal&theme=tokyonight" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujit-mandal&theme=tokyonight" alt="General stats badge"/>
+</p>
+</div>
+
+<br>
+
+## 🕹️ Current overview
 
 ### 🔭 I’m working - Own projects.
 
 ### 🌱 I’m exploring - Next JS for web.
 
-### 👯 I’m looking - To collaborate on open source projects.
+### 👯 I’m looking - To collaborate on open source front-end projects.

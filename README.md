@@ -35,19 +35,19 @@
 
 <div align="center">
 <p align="center">
-<img src="images/icons/HTML.png"/>
-<img src="images/icons/css.png"/>
-<img src="images/icons/JavaScript.png"/>
-<img src="images/icons/react.png"/>
+<img src="images/HTML.png"/>
+<img src="images/css.png"/>
+<img src="images/JavaScript.png"/>
+<img src="images/react.png"/>
 </p>
 <p align="center">
-<img src="images/icons/tailwind.png"/>
-<img src="images/icons/Bootsrap.png"/>
-<img src="images/icons/firebase.png"/>
+<img src="images/tailwind.png"/>
+<img src="images/Bootsrap.png"/>
+<img src="images/firebase.png"/>
 </p>
 <p align="center">
-<img src="images/icons/node.png"/>
-<img src="images/icons/express.png"/>
-<img src="images/icons/mongo.png"/>
+<img src="images/node.png"/>
+<img src="images/express.png"/>
+<img src="/images/mongo.png"/>
 </p>
 </div>
